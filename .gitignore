@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# IDE (PyCharm)
+.idea/
+
+# OS
+.DS_Store
